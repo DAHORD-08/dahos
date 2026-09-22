@@ -1,7 +1,7 @@
-# DAHORD Computer
+# DAHORD Computer aka dahos
 ## Cahier des charges, feuille de route et documentation technique
 
-> Projet personnel de longue durée — implémentation en C d'un ordinateur virtuel complet, de son jeu d'instructions, de son assembleur et, progressivement, d'un système d'exploitation exécuté sur cette machine virtuelle.
+> Projet personnel de longue durée — implémentation en C d'un ordinateur virtuel complet, de son jeu d'instructions, de son assembleur et, d'un système d'exploitation exécuté sur cette machine virtuelle.
 
 ---
 
@@ -9,9 +9,9 @@
 
 ## 1.1 Objectif général
 
-Construire en C une machine informatique virtuelle complète appelée provisoirement **DAHORD Computer**.
+Construire en C une machine informatique virtuelle complète appelée provisoirement **DAHORD Computer ou dahos**.
 
-Le projet doit progressivement reproduire plusieurs couches d'un ordinateur réel :
+Le projet doit reproduire plusieurs couches d'un ordinateur réel :
 
 ```text
 Applications
